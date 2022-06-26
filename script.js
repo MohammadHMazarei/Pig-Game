@@ -15,9 +15,10 @@ diceEl.classList.add("hidden");
 
 // Rolling dice
 btnRoll.addEventListener("click", function () {
-  // Generating a random riceroll
+  // Generating a random dice roll
   const dice = Math.trunc(Math.random() * 6) + 1;
 
   // Display dice
   diceEl.classList.remove("hidden");
+  diceEl.src = `images/dice-${dice}.png`;
 });
