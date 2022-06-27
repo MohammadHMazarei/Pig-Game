@@ -1,3 +1,2 @@
 # Pig-Game
-This is a simple pig game which is 2-player game and a player who reach 100 score will be the winner of the game.
-you can playe the game on https://pigpig-game.netlify.app/ website. To start the game roll dice.
+This is a simple pig game which is a 2-player game and the player who reaches 100 score first will be the winner of the game. you can play the game on https://pigpig-game.netlify.app/ website. To start the game, roll the dice.
